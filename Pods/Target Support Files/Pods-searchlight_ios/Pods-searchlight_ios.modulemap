@@ -1,0 +1,6 @@
+framework module Pods_searchlight_ios {
+  umbrella header "Pods-searchlight_ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
